@@ -41,7 +41,7 @@ See `docs/Project1 Report.pdf` for full documentation, analysis, and conclusions
 
 AI Assistance Disclaimer
 
-Some assistance was provided by OpenAI’s ChatGPT for parallel code, graph generation, and documentation editing. All final code and analysis were verified tested  ran and understood and run anby the author.
+Some assistance was provided by OpenAI’s ChatGPT for parallel code, graph generation, and documentation editing. All final code and analysis were verified tested  ran and understood by the author.
 
 ## 👤 Author
 
